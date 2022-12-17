@@ -1,0 +1,13 @@
+:root{
+   --white:#f5f5f5;
+   --lighgrey:#dadada;
+   --midgrey:#b4b2b2;
+   --darkgrey:#554842;
+   --red:#f01a19;
+   --darkred:#a75248; 
+}
+/* 
+body{
+    height: 100vh;
+    background: linear-gradient(to bottom , var(--midgrey) 0%,var(--midgrey) 75%,var(--white) 100%);
+} */
